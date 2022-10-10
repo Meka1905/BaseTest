@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login To Azure"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.027">
+    <properties></properties>
+
+
+
+            <testcase
+                name="login"
+                time="1.027"
+                classname="tests.Login">
+            </testcase>
+</testsuite>
